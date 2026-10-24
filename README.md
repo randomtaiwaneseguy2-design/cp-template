@@ -1,13 +1,5 @@
-# Competitive Programming Template — 資訊能競實戰全攻略模板
-
-> **適用對象**：普通型高級中等學校數理及資訊學科能力競賽（市賽／區賽／全國賽）、APCS、TOI 初選、NCPC／ICPC  
-> **版本特色**：
-> 1. 完整整合你的個人起手式（`vec`、`pii`、`fi`/`se`、`pb`、`be`、`mkunique`、`lb`/`ub`、`inf`、`mod1`/`mod2`、`dr`/`dc`、`voids()`）。
-> 2. **全面相容舊版 C++11（全篇零 `auto`、不依賴 C++17 結構化綁定與 `__int128`）**，學校舊版編譯器也能直接過。
-> 3. 每個演算法皆附帶詳細行內註解與 **`void voids()` 實戰完整呼叫範例**，直接照抄就能用。
-
-[TOC]
-
+# Competitive Programming Template
+by oko._.11
 ---
 
 ## 30 秒上手指南：比賽時怎麼用這份模板？
